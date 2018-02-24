@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
-public class Anagram  {
+public class Anagramfinal  {
 
 	public static List<String> array[];
 	public static int prim = 40009;
